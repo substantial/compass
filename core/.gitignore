@@ -2,3 +2,6 @@ pkg/
 .bundle/
 Gemfile.lock
 RELEASE_VERSION
+test/**/tmp/*
+Gemfile.lock
+.sass-cache
